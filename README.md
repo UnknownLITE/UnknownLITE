@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnknownLITE
 - 👀 I’m interested in Gaming, Coding (Pyhton, HTML)
-- 🌱 I’m currently learning Discord.py, Discord.js, and Lavalink 
+- 🌱 I’m currently learning Discord.py, Nextcord
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Discord(UnknownLITE#4796)
 
