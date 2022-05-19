@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnknownLITE
-- 👀 I’m interested in Gaming, Coding (Pyhton, HTML, CSS, JS ,PHP)
-- 🌱 I’m currently learning Nextcord and trying to work with Discord.js
-- 📫 Reach me on Discord - `UnknownLITE#4796`
+- 👀 I’m interested in Gaming, Coding (Python (mainly), Rust)
+- 🌱 I’m currently working on Discord Bots and I can create a bot for you too!
+- 📫 Reach me on Discord - [UnknownLITE#4796](https://discord.com/users/794913278371168257)
 
 <!---
 UnknownLITE/UnknownLITE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
