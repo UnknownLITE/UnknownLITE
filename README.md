@@ -1,4 +1,4 @@
-Loves Gaming, Coding (Python, Rust, JavaScript), Neovim, & Linux Ricing \
+Loves Gaming, Coding (Python, Nim), Neovim, & Linux \
 Busy doing nothing.
 
 Reach me on [Discord](https://discord.com/users/794913278371168257)
