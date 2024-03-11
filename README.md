@@ -1,4 +1,4 @@
-Loves Gaming, Coding (Python, Nim, Go, C#), Neovim, & Linux \
+Loves Gaming, Coding (Python, C/C++/C#, Go), Neovim, & Linux \
 Busy doing nothing.
 
 Reach me on [Discord](https://discord.com/users/794913278371168257)
